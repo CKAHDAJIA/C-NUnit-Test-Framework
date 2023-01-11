@@ -1,0 +1,116 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0" />
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="4.0.1" />
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="ExtentReports" Version="4.1.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
+    <PackageReference Include="coverlet.collector" Version="3.1.0" />
+    <PackageReference Include="Selenium.Support" Version="4.1.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.1.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+    <PackageReference Include="WebDriverManager" Version="2.12.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="SiteConfigurations\BetMarketsPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\CasinoCasinoPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\CricPlayersPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\GC88Prerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\H2Prerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\HachislotPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\LibertyCasinoPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\LuxBet88Prerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\MinnyCasinoPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\QueenCasinoPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\SevenStarPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\SportsLabPrerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SiteConfigurations\YesBet88Prerequisites.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="PageObjects\Backend\" />
+    <Folder Include="PageObjects\Base\Common\Home Page\" />
+    <Folder Include="PageObjects\BetMarkets\Common\HomePage\" />
+    <Folder Include="PageObjects\CasinoCasino\Common\HomePage\" />
+    <Folder Include="PageObjects\CricPlayers\Common\HomePage\" />
+    <Folder Include="PageObjects\GC88\Common\HomePage\" />
+    <Folder Include="PageObjects\H2\Common\HomePage\" />
+    <Folder Include="PageObjects\Hachislot\Common\HomePage\" />
+    <Folder Include="PageObjects\LibertyCasino\Common\HomePage\" />
+    <Folder Include="PageObjects\LuxBet88\Common\HomePage\" />
+    <Folder Include="PageObjects\MinnyCasino\Common\HomePage\" />
+    <Folder Include="PageObjects\QueenCasino\Common\HomePage\" />
+    <Folder Include="PageObjects\SevenStar\Common\HomePage\" />
+    <Folder Include="PageObjects\SportsLab\Common\HomePage\" />
+    <Folder Include="PageObjects\YesBet88\Common\HomePage\" />
+    <Folder Include="Tests\BetMarkets\AccountPage\" />
+    <Folder Include="Tests\BetMarkets\HomePage\" />
+    <Folder Include="Tests\CasinoCasino\AccountPage\" />
+    <Folder Include="Tests\CasinoCasino\HomePage\" />
+    <Folder Include="Tests\Common\" />
+    <Folder Include="Tests\CricPlayers\AccountPage\" />
+    <Folder Include="Tests\CricPlayers\HomePage\" />
+    <Folder Include="Tests\GC88\AccountPage\" />
+    <Folder Include="Tests\GC88\HomePage\" />
+    <Folder Include="Tests\H2\AccountPage\" />
+    <Folder Include="Tests\H2\HomePage\" />
+    <Folder Include="Tests\Hachislot\AccountPage\" />
+    <Folder Include="Tests\Hachislot\HomePage\" />
+    <Folder Include="Tests\LibertyCasino\AccountPage\" />
+    <Folder Include="Tests\LibertyCasino\HomePage\" />
+    <Folder Include="Tests\LuxBet88\AccountPage\" />
+    <Folder Include="Tests\LuxBet88\HomePage\" />
+    <Folder Include="Tests\LuxBet88\SlotPage\" />
+    <Folder Include="Tests\MinnyCasino\AccountPage\" />
+    <Folder Include="Tests\MinnyCasino\HomePage\" />
+    <Folder Include="Tests\QueenCasino\AccountPage\" />
+    <Folder Include="Tests\QueenCasino\HomePage\" />
+    <Folder Include="Tests\SevenStar\AccountPage\" />
+    <Folder Include="Tests\SevenStar\HomePage\" />
+    <Folder Include="Tests\Sportslab\AccountPage\" />
+    <Folder Include="Tests\Sportslab\HomePage\" />
+    <Folder Include="Tests\YesBet88\AccountPage\" />
+    <Folder Include="Tests\YesBet88\HomePage\" />
+    <Folder Include="Tests\YesBet88\PokerPage\" />
+    <Folder Include="Tests\YesBet88\TablePage\" />
+  </ItemGroup>
+
+</Project>
