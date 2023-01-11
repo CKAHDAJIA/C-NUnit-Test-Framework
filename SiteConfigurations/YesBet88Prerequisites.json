@@ -1,0 +1,21 @@
+
+ {
+    "siteUrl": "https://yesbet88.rwbinter.com/en-us/home",
+    "authentication": {
+      "username": "Slav.Slavov",
+      "password": "P@ssw0rd123"
+    },
+    "payments": {},
+    "pages": {
+      "loginPageUrl": ""
+    },
+  "games": {
+
+    "testSlotFunUrl": "https://yesbet88.rwbinter.com/en-us/slot/thunderkick/carnival-queen/fun/8/7832",
+    "testCasinoGameUrl": "https://yesbet88.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "",
+    "testTableGameUrl": "https://yesbet88.rwbinter.com/en-us/slot/espresso/12-number-roulette/8/6976"
+  }
+
+
+ }

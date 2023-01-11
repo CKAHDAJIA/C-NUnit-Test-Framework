@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://cricplayersstage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://cricplayersstage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://cricplayersstage.rwbinter.com/en-us/slot/goldenherogames/dreams-of-gold/fun/8/8317",
+    "testCasinoGameUrl": "https://cricplayersstage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "https://cricplayersstage.rwbinter.com/en-us/virtualgame/kiron/keno/fun/8/7497",
+    "testTableGameUrl": ""
+  }
+
+
+}

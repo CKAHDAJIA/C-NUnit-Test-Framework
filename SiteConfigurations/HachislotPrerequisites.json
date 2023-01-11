@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://frontstage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": ""
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://frontstage.rwbinter.com/en-us/slot/isoftbet/disco-double/fun/2/2261",
+    "testCasinoGameUrl": "https://frontstage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "",
+    "testTableGameUrl": "https://frontstage.rwbinter.com/en-us/slot/g1x2/baccarat/fun/8/6715"
+  }
+
+
+}

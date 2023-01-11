@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://libertycasinostage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://libertycasinostage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://libertycasinostage.rwbinter.com/en-us/slot/redtiger/10001-nights/fun/1/10719",
+    "testCasinoGameUrl": "https://libertycasinostage.rwbinter.com/en-us/casino-live-game/evolution/evolution-baccarat-lobby/1/10830",
+    "testVirtualFunGameUrl": "",
+    "testTableGameUrl": ""
+  }
+
+
+}

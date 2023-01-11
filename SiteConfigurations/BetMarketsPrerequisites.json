@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://betmarketsstage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "slav.slavov@rwinter.co",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://betmarketsstage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://betmarketsstage.rwbinter.com/en-us/slot/habanero/12-zodiacs/fun/8/7306",
+    "testCasinoGameUrl": "https://betmarketsstage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "https://betmarketsstage.rwbinter.com/en-us/virtualgame/kiron/keno/fun/8/7497",
+    "testTableGameUrl": ""
+  }
+
+
+}

@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://queencasinostage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://queencasinostage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://queencasinostage.rwbinter.com/en-us/slot/isoftbet/disco-double/fun/2/2261",
+    "testCasinoGameUrl": "https://queencasinostage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "https://queencasinostage.rwbinter.com/en-us/virtualgame/g1x2/virtual-football-pro/fun/8/6779",
+    "testTableGameUrl": "https://queencasinostage.rwbinter.com/en-us/slot/espresso/12-number-roulette/fun/8/6976"
+  }
+
+
+}

@@ -1,0 +1,21 @@
+{
+  "siteUrl": "https://7starstage.rwbinter.com/en-us/home",
+  "authentication": {
+    "email":"slav.slavov@rwbinter.com",
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://7starstage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://7starstage.rwbinter.com/en-us/slot/yggdrasil/wild-robo-factory/fun/8/8300",
+    "testCasinoGameUrl": "https://7starstage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "https://7starstage.rwbinter.com/en-us/virtualgame/kiron/virtual-archery/fun/8/7497",
+    "testTableGameUrl": ""
+  }
+
+
+}

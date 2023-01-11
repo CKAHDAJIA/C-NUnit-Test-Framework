@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://minnycasinostage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://minnycasinostage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://minnycasinostage.rwbinter.com/en-us/slot/thunderkick/carnival-queen/fun/8/7832",
+    "testCasinoGameUrl": "https://minnycasinostage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "https://minnycasinostage.rwbinter.com/en-us/virtualgame/kiron/keno/fun/8/7497",
+    "testTableGameUrl": ""
+  }
+
+
+}

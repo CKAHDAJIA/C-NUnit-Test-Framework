@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://gc88stage.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd12345"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://gc88stage.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "https://gc88stage.rwbinter.com/en-us/slot/isoftbet/disco-double/fun/2/2261",
+    "testCasinoGameUrl": "https://gc88stage.rwbinter.com/en-us/casino-live-game/evolution/evolution/1/10859",
+    "testVirtualFunGameUrl": "",
+    "testTableGameUrl": ""
+  }
+
+
+}

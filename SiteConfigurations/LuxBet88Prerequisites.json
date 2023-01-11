@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://luxbet88.rwbinter.com/en-us/home",
+  "authentication": {
+    "username": "Slav.Slavov",
+    "password": "P@ssw0rd123"
+  },
+  "payments": {},
+  "pages": {
+    "loginPageUrl": "https://luxbet88.rwbinter.com/en-us/login"
+  },
+  "games": {
+
+    "testSlotFunUrl": "",
+    "testCasinoGameUrl": "https://luxbet88.rwbinter.com/en-us/casino-live-game/hogaming/hogaming/12/9049",
+    "testVirtualFunGameUrl": "https://luxbet88.rwbinter.com/en-us/virtualgame/kiron/keno/fun/8/7497",
+    "testTableGameUrl": ""
+  }
+
+
+}
